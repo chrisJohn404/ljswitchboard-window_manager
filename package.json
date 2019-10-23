@@ -25,7 +25,10 @@
   "bugs": {
     "url": "https://github.com/chrisJohn404/ljswitchboard-window_manager/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "async": "3.1.0",
+    "q": "1.5.1"
+  },
   "devDependencies": {
     "diff": ">=3.5.0",
     "nodeunit": "0.11.3"
